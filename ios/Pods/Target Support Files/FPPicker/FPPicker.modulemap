@@ -1,0 +1,6 @@
+framework module FPPicker {
+  umbrella header "FPPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

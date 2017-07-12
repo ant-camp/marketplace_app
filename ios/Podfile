@@ -1,0 +1,4 @@
+use_frameworks!
+
+pod 'MWPhotoBrowser'
+pod 'FPPicker', :podspec => 'https://raw.githubusercontent.com/m4rcoperuano/ios-picker/develop/FPPicker.podspec'
